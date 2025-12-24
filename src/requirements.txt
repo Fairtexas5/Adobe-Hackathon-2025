@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+pillow
+PyMuPDF
+pytesseract
+pdfminer-six
+doclayout-yolo
+torch
